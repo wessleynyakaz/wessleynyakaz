@@ -11,8 +11,6 @@
 | Name | Description | Link | Image |
 | --- | --- | --- | --- |
 | Bookbot | A web application that helps you find and recommend books based on your interests. | [Link to Bookbot](#) | ![Image of Bookbot](#) |
-| Project 2 | Description of Project 2 | [Link to Project 2](#) | ![Image of Project 2](#) |
-| Project 3 | Description of Project 3 | [Link to Project 3](#) | ![Image of Project 3](#) |
 
 ## Social Accounts
 - [RoadMaps](https://roadmap.sh/u/wessleyn)

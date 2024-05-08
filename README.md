@@ -7,7 +7,7 @@
 - 📫 How to reach me: [Email](mailto:wessleynyakaz@gmail.com), [WhatsApp](https://wa.me/qr/FP6EIVBHXLW7B1)
 
 ## Developer Roadmap
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/660c5561da1671f98605ec75?variant=dark" alt="roadmap.sh" width="50%"/></a>
+[![roadmap.sh](https://roadmap.sh/card/tall/660c5561da1671f98605ec75?variant=dark)](https://roadmap.sh)
 
 The roadmap.sh project is a community-driven effort to create visual roadmaps, guides, and educational content to help developers grow in their careers. It covers various paths, including frontend, backend, DevOps, computer science, and more. [1][2]
 

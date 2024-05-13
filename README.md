@@ -15,7 +15,8 @@ The roadmap.sh project is a community-driven effort to create visual roadmaps, g
 
 | Name | Description | Link | Image |
 | --- | --- | --- | --- |
-| Bookbot | A web application that helps you find and recommend books based on your interests. | [Link to Bookbot](#) | Image of Bookbot |
+| Bookbot | A web application that helps you find and recommend books based on your interests. | [Link to Bookbot](https://github.com/wessleynyakaz/Bookbot) | Image of Bookbot |
+| AI Documentor | A python project to autodocument your repo. | [Link to Ai Documentor](https://github.com/wessleynyakaz/ai_documentor) | Image of AI Documentor |
 
 ## Social Accounts
 - [RoadMaps](https://roadmap.sh/u/wessleyn)

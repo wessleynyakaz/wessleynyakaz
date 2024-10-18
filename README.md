@@ -7,6 +7,7 @@
 - 📫 How to reach me: [Email](mailto:wessleynyakaz@gmail.com), [WhatsApp](https://wa.me/qr/FP6EIVBHXLW7B1)
 
 ## Developer Roadmap
+
 [![roadmap.sh](https://roadmap.sh/card/wide/660c5561da1671f98605ec75?variant=dark&roadmaps=react%2Cpython%2Cdocker%2Ctypescript)](https://roadmap.sh)
 
 The roadmap.sh project is a community-driven effort to create visual roadmaps, guides, and educational content to help developers grow in their careers. It covers various paths, including frontend, backend, DevOps, computer science, and more. [1][2]
@@ -15,8 +16,10 @@ The roadmap.sh project is a community-driven effort to create visual roadmaps, g
 
 | Name | Description | Link | Image |
 | --- | --- | --- | --- |
-| Bookbot | A web application that helps you find and recommend books based on your interests. | [Link to Bookbot](https://github.com/wessleynyakaz/Bookbot) | Image of Bookbot |
-| AI Documentor | A python project to autodocument your repo. | [Link to Ai Documentor](https://github.com/wessleynyakaz/ai_documentor) | Image of AI Documentor |
+| Student Portal | A nextjs project for students  your repo. | [Go to Code ](https://github.com/wessleynyakaz/student-portal) |   ![Screenshot_20241018-170943](https://github.com/user-attachments/assets/c127eb0a-f2e2-486a-9f41-dc28f2c63681)|
+| Teacher Portal | A nextjs project for teachers to mage their students and tasks your repo. | [Got to Code](https://github.com/wessleynyakaz/teacher-portal) | Image of Teacher Portal |
+| Bookbot | A web application that helps you find and recommend books based on your interests. | [Go to Code](https://github.com/wessleynyakaz/Bookbot) | Image of Bookbot |
+| AI Documentor | A python project to autodocument your repo. | [Go to Code](https://github.com/wessleynyakaz/ai_documentor) | Image of AI Documentor |
 
 ## Social Accounts
 - [RoadMaps](https://roadmap.sh/u/wessleyn)
